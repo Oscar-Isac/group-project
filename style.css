@@ -20,7 +20,7 @@ main h2 {
     text-decoration: underline;
 }
 .container {
-    width: 65%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -48,4 +48,21 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}
+.jane-style {
+color:white;
+
+
+}
+
+body {
+background-color: salmon;
+
+
+}
+h2 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: none;
+
+
 }
